@@ -197,13 +197,14 @@ textarea {
 }
 
 #footer {
-    position: sticky;
+    position: absolute;
     text-align: center;
     width: 100%;
     padding: 10px;
     bottom: 0px;
     border-top: 1px solid #bfbfbf;
     background-color: #f9f9f9;
+    min-height: 100%;
 }
 
 .options {
